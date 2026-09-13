@@ -189,7 +189,7 @@ if navigation == "🏠 Home":
         st.markdown('<div class="card">', unsafe_allow_html=True)
         st.subheader("🚀 Quick Start")
         st.write("Get verified, context-aware disaster health guidance in English, Urdu, or Roman Urdu.")
-        st.markdown("</div>', unsafe_allow_html=True)
+        st.markdown("</div>", unsafe_allow_html=True)
 
 # ==========================================
 # PAGE 2: HEALTH ASSISTANT (CORE RAG WORKFLOW)
