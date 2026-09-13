@@ -1,0 +1,8 @@
+streamlit>=1.32.0
+langchain>=0.1.13
+langchain-community>=0.0.29
+langchain-huggingface>=0.0.1
+sentence-transformers>=2.5.1
+faiss-cpu>=1.8.0
+pypdf>=4.1.0
+groq>=0.4.2
